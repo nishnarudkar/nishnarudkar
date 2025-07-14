@@ -1,5 +1,4 @@
-(![Snake animation](https://github.com/nishnarudkar/nishnarudkar/blob/output/github-contribution-grid-snake.svg))
-
+![Snake animation](https://github.com/nishnarudkar/nishnarudkar/blob/output/github-contribution-grid-snake.svg)
 # Hi there! 👋 I'm Nishant Narudkar
 
 Welcome to my GitHub profile! I'm a passionate software developer and data scientist with a keen interest in web development, machine learning, and open-source contributions. Here you'll find a showcase of my projects, experiments, and collaborative efforts.
