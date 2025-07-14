@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and data scien
 
 ### ☀️ Solar Radiation Prediction using Saudi Arabia Dataset
 
-![Solar Radiation Project](Solar-Radiation-Prediction-using-Saudi-Arabia-Dataset/Screenshots/homepage.jpg)
+![Solar Radiation Project](https://github.com/nishnarudkar/Solar-Radiation-Prediction-using-Saudi-Arabia-Dataset/raw/main/Screenshots/homepage.jpg)
 
 This project predicts **Global Horizontal Irradiance (GHI)** using historical weather data from Saudi Arabia. It leverages advanced machine learning models to build an accurate forecasting system and deploys it as a web application for real-time GHI prediction.
 
