@@ -41,7 +41,7 @@ Active contributor to several open-source projects related to data science and w
 - **GitHub**: [nishnarudkar](https://github.com/nishnarudkar)
 - **LinkedIn**: [Nishant Narudkar](https://www.linkedin.com/in/nishant-narudkar/)
 - **Twitter**: [@nishnarudkar](https://twitter.com/nishnarudkar)
-- **Email**: [nishantnarudkar@example.com](mailto:nishnarudkar@gmail.com)
+- **Email**: [nishnarudkar@gmail.com](mailto:nishnarudkar@gmail.com)
 
 ## 🌱 Let's Collaborate!
 I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you want to work together!
