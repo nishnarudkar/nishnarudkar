@@ -1,13 +1,13 @@
-
 # Hi there! 👋 I'm Nishant Narudkar
 
-Welcome to my GitHub profile! I'm a passionate software developer and data scientist with a keen interest in web development, machine learning, and open-source contributions. Here you'll find a showcase of my projects, experiments, and collaborative efforts.
+Welcome to my GitHub profile! I'm a passionate software developer and data scientist, dedicated to building intelligent solutions for the real world. My work spans web development, machine learning, and robotics, with a special interest in open-source collaboration. Here you’ll discover a portfolio of my projects, experiments, and team efforts.
 
 ## 🔍 About Me
-- **📈 Data Scientist**: Enthusiastic about data analysis, machine learning, and real-world forecasting problems.
-- **💻 Software Developer**: Experienced in TypeScript, React, Next.js, Python, and web technologies.
-- **🎓 Lifelong Learner**: Always exploring new technologies and refining my skills.
-- **🌐 Open Source Enthusiast**: Contributor to a variety of open-source projects.
+- **📈 Data Scientist** — Specializing in data analysis, machine learning, and forecasting for actionable insights.
+- **💻 Software Developer** — Experienced in TypeScript, React, Next.js, Python, Dart, and modern web technologies.
+- **🤖 Robotics & Automation** — Familiar with ROS2 and MATLAB for research and robotic systems development.
+- **🎓 Lifelong Learner** — Constantly evolving by exploring new frameworks, domain areas, and best practices.
+- **🌐 Open Source Enthusiast** — Active contributor to projects advancing data science and dev tooling.
 
 ## 🚀 Featured Project
 
@@ -15,11 +15,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and data scien
 
 ![Solar Radiation Project](https://github.com/nishnarudkar/Solar-Radiation-Prediction-using-Saudi-Arabia-Dataset/raw/main/Screenshots/homepage.jpg)
 
-This project predicts **Global Horizontal Irradiance (GHI)** using historical weather data from Saudi Arabia. It leverages advanced machine learning models to build an accurate forecasting system and deploys it as a web application for real-time GHI prediction.
+Predicts **Global Horizontal Irradiance (GHI)** from historical Saudi Arabian weather data via machine learning. Features an interactive web app for real-time forecasting.
 
-- **ML Workflow:** End-to-end pipeline from data preprocessing to model deployment.
-- **Tech Stack:** Python (scikit-learn, pandas, numpy), JavaScript, HTML.
-- **Web Application:** Interactive dashboard for real-time GHI predictions.
+- **Workflow:** Complete pipeline from data ingestion to web deployment.
+- **Technologies:** Python (scikit-learn, pandas, numpy), JavaScript, HTML.
+- **Web App:** Dynamic dashboard for GHI predictions.
 - **Dataset:** Saudi Arabia weather data (2015–2020).
 - **Repositories:** 
   - [Solar-Radiation-Prediction-using-Saudi-Arabia-Dataset](https://github.com/nishnarudkar/Solar-Radiation-Prediction-using-Saudi-Arabia-Dataset)
@@ -32,18 +32,23 @@ This project predicts **Global Horizontal Irradiance (GHI)** using historical we
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ## 🌟 Open Source Contributions
-Active contributor to several open-source projects related to data science and web development.
 
-## 📫 Get in Touch
+I actively contribute to open-source initiatives in data science, machine learning, and web/robotics development.
+
+## 📫 Connect with Me
 
 - **GitHub**: [nishnarudkar](https://github.com/nishnarudkar)
 - **LinkedIn**: [Nishant Narudkar](https://www.linkedin.com/in/nishant-narudkar/)
 - **Twitter**: [@nishnarudkar](https://twitter.com/nishnarudkar)
 - **Email**: [nishnarudkar@gmail.com](mailto:nishnarudkar@gmail.com)
 
-## 🌱 Let's Collaborate!
-I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you want to work together!
+## 🌱 Let’s Collaborate!
+
+I’m always open to new collaborations, innovative projects, and knowledge sharing. If you’d like to work together or discuss ideas, don’t hesitate to get in touch!
 
 ---
