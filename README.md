@@ -1,54 +1,50 @@
-# Hi there! 👋 I'm Nishant Narudkar
+# Nishant Narudkar
 
-Welcome to my GitHub profile! I'm a passionate software developer and data scientist, dedicated to building intelligent solutions for the real world. My work spans web development, machine learning, and robotics, with a special interest in open-source collaboration. Here you’ll discover a portfolio of my projects, experiments, and team efforts.
+AI and machine learning engineer focused on building reliable, practical software systems that turn complex data and workflows into useful decisions.
 
-## 🔍 About Me
-- **📈 Data Scientist** — Specializing in data analysis, machine learning, and forecasting for actionable insights.
-- **💻 Software Developer** — Experienced in TypeScript, React, Next.js, Python, Dart, and modern web technologies.
-- **🤖 Robotics & Automation** — Familiar with ROS2 and MATLAB for research and robotic systems development.
-- **🎓 Lifelong Learner** — Constantly evolving by exploring new frameworks, domain areas, and best practices.
-- **🌐 Open Source Enthusiast** — Active contributor to projects advancing data science and dev tooling.
+I work across applied AI, agentic systems, machine learning, MLOps, cloud architecture, and full-stack development. My projects combine research-oriented experimentation with production-minded engineering, including evaluation, traceability, deployment, and operational reliability.
 
-## 🚀 Featured Project
+## Areas of Focus
 
-### ☀️ Solar Radiation Prediction using Saudi Arabia Dataset
+- Applied artificial intelligence and large language model applications
+- Multi-agent systems, tool use, retrieval, and workflow orchestration
+- Machine learning for finance, healthcare, speech, and decision support
+- MLOps, reproducible experimentation, and model deployment
+- Cloud-native systems using AWS, Snowflake, and modern web technologies
+- TypeScript, Python, data platforms, APIs, and full-stack applications
 
-![Solar Radiation Project](https://github.com/nishnarudkar/Solar-Radiation-Prediction-using-Saudi-Arabia-Dataset/raw/main/Screenshots/homepage.jpg)
+## Selected Work
 
-Predicts **Global Horizontal Irradiance (GHI)** from historical Saudi Arabian weather data via machine learning. Features an interactive web app for real-time forecasting.
+### [Sentari](https://github.com/nishnarudkar/Sentari)
+Aspect-level analysis of earnings calls and filings using a traceable multi-agent pipeline. Claims are grounded in source sentences and tracked across reporting periods.
 
-- **Workflow:** Complete pipeline from data ingestion to web deployment.
-- **Technologies:** Python (scikit-learn, pandas, numpy), JavaScript, HTML.
-- **Web App:** Dynamic dashboard for GHI predictions.
-- **Dataset:** Saudi Arabia weather data (2015–2020).
-- **Repositories:** 
-  - [Solar-Radiation-Prediction-using-Saudi-Arabia-Dataset](https://github.com/nishnarudkar/Solar-Radiation-Prediction-using-Saudi-Arabia-Dataset)
-  - [Solar_Radiation_ML_Models](https://github.com/nishnarudkar/Solar_Radiation_ML_Models)
+### [KAIRO](https://github.com/nishnarudkar/KAIRO-Regime-Aware-Deep-Reinforcement-Learning-for-Optimal-Trade-Execution)
+A regime-aware reinforcement learning system for large-order execution that adapts to market conditions while balancing cost, impact, liquidity, and time constraints.
 
-## 🛠️ Tech Stack
+### [SynapseCortex](https://github.com/nishnarudkar/SynapseCortex-AI-Patient-Member-360-Clinical-Regulatory-Copilot)
+A clinical and regulatory copilot built with Snowflake Cortex AI. It combines structured healthcare data with unstructured documents and provides inline evidence citations.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+### [Aequitas](https://github.com/nishnarudkar/Aequitas)
+An AI-powered legal intelligence platform that translates complex contracts into plain-language explanations, context-driven risk analysis, and text-grounded guidance.
 
-## 🌟 Open Source Contributions
+### [NeuroLynk AI](https://github.com/nishnarudkar/NeuroLynk-AI)
+An interoperable healthcare AI agent for Parkinson’s disease screening from speech biomarkers, with explainable predictions, clinical summaries, and FHIR R4 output.
 
-I actively contribute to open-source initiatives in data science, machine learning, and web/robotics development.
+### [Nexora](https://github.com/nishnarudkar/Nexora-Next-Generation-Nuclear-Infrastructure-Intelligence-in-Kenya)
+An AI-powered decision platform for assessing and planning small modular reactor infrastructure in Kenya, with an emphasis on structured analysis and standards alignment.
 
-## 📫 Connect with Me
+## Technical Interests
 
-- **GitHub**: [nishnarudkar](https://github.com/nishnarudkar)
-- **LinkedIn**: [Nishant Narudkar](https://www.linkedin.com/in/nishant-narudkar/)
-- **Twitter**: [@nishnarudkar](https://twitter.com/nishnarudkar)
-- **Email**: [nishnarudkar@gmail.com](mailto:nishnarudkar@gmail.com)
+Python, TypeScript, JavaScript, SQL, machine learning, deep learning, natural language processing, reinforcement learning, LangGraph, MCP, AWS, Snowflake, Docker, Kubernetes, MLflow, DVC, FastAPI, React, and Next.js.
 
-## 🌱 Let’s Collaborate!
+## Background
 
-I’m always open to new collaborations, innovative projects, and knowledge sharing. If you’d like to work together or discuss ideas, don’t hesitate to get in touch!
+My repository portfolio includes applied research, production-oriented prototypes, cloud systems, educational work, and experiments in AI agents, healthcare, finance, speech technology, computer vision, and MLOps.
 
----
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nishant-narudkar/)
+- [GitHub](https://github.com/nishnarudkar)
+- [Email](mailto:nishnarudkar@gmail.com)
+
+I am open to thoughtful collaboration on applied AI, machine learning systems, developer tools, and technically rigorous product ideas.
